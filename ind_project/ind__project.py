@@ -4,7 +4,7 @@ from telebot import types
 import random
 from collections import defaultdict
 
-token = '8172132829:AAF3lyYCqqm4KUfgz09VMNWM837dd16Oy-s'
+token = 'token'
 bot = telebot.TeleBot(token)
 
 caught_pokemons = defaultdict(dict)
